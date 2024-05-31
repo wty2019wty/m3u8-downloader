@@ -36,7 +36,7 @@ golang 多线程下载直播流m3u8格式的视屏，跨平台。 你只需指�
 - linux/amd64
 - darwin/amd64
 
-- https://github.com/wty2019wty/m3u8-downloader/releases
+-  [点击下载](https://github.com/wty2019wty/m3u8-downloader/releases)
 - m3u8-linux(com.termux)-arm64
 
 ## 用法
